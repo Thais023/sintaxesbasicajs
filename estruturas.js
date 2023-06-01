@@ -30,5 +30,6 @@ if(condicao1  && condicao2){
             console.log(++contador);
             
         }
+        
 
  
